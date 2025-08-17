@@ -1,0 +1,33 @@
+.image{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.description{
+    font-size: 20px;
+    text-align: center;
+}
+
+.list{
+    font-size: 18px;
+    margin: 20px;
+}
+
+.heading{
+    color: white;
+    background-color:black;
+    text-align: center;
+    padding: 12px;
+    font-size: 30px;
+}
+a{
+    display: block;
+}
+
+.return{
+    text-align: center;
+    margin-top: 20px;
+}
